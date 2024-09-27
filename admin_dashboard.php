@@ -35,6 +35,7 @@ while ($row = $query->fetch_assoc()) {
             Open Ticket </button>
     </div>
     <!-- Open tickets modal -->
+     
 
     <!-- open tickets table -->
     <table class="table table-bordered table-striped" id="mytable">
